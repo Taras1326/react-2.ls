@@ -1,0 +1,9 @@
+{
+    "name": "Taras",
+    "age": 16,
+    "city": "Stockach",
+    "email": "simkovtaras9@gmail.com",
+    "isStudent": true,
+    "skills": ["JavaScript", "Python", "SQL"],
+    "createdAt": "2026-03-29"
+  }
